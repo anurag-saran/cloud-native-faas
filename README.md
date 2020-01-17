@@ -1,6 +1,6 @@
-The CCN Roadshow(Dev Track) Module 4 Labs 2019
+Cloud Native CICD/FAAS
 ===
-These labs provide templates, generated Java code, empty configuration for each lab that the workshop attenddees will develop during the roadshow.
+
 The included Java projects and/or installation files are here:
 
 * Catalog Service - A Spring boot application running on JBoss Web Server (Tomcat) and PostgreSQL, serves products and prices for retail products
